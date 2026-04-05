@@ -16,9 +16,3 @@ cp .env.example .env
 npm run dev
 
 
-Commit it:
-
-```bash
-git add .
-git commit -m "Add README"
-git push
